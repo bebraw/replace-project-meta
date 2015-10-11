@@ -16,5 +16,9 @@
     "meta",
     "package.json"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^0.2.14",
+    "replace": "^0.3.0"
+  }
 }
