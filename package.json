@@ -2,7 +2,7 @@
   "name": "replace-project-meta",
   "description": "Replaces project meta from package.json/README.md",
   "author": "Juho Vepsalainen <bebraw@gmail.com>",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "./index.js",
   "bin": "./index.js",
   "repository": {
