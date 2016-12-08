@@ -2,7 +2,7 @@
 
 **CLI Usage:**
 
-Hit `replace-project-meta` at npm project root. It will dig defaults from your `package.json`. After you've provided replacements, it will go through your `LICENSE`, README.md` and `package.json` and replaces the matches. It's a little rough but it works.
+Hit `replace-project-meta` at npm project root. It will dig defaults from your `package.json`. After you've provided replacements, it will go through your `LICENSE`, `README.md` and `package.json` and replaces the matches. It's a little rough but it works.
 
 **Library usage:**
 
